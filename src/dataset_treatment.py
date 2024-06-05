@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np
 from sklearn.preprocessing import OneHotEncoder, MinMaxScaler
 
-def pre_process(df, class_name = "class"):
+def pre_process(df, class_name = "class") -> pd.DataFrame:
     # Mostrar as primeiras linhas do dataframe
     print("Primeiras linhas do dataframe:")
     print(df.head())

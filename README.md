@@ -1,7 +1,3 @@
-Here’s an improved version of your README.md file:
-
----
-
 # Mushroom Edibility Classification
 
 Welcome to the Mushroom Edibility Classification project! This project aims to determine whether a mushroom is safe to eat based on various characteristics.

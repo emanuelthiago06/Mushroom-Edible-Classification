@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1717705735163
+current_stage: None
+description: null
+last_updated_timestamp: 1717705735163
+name: XGBClassifier
+run_id: d786825c360c4e70a0802af9928eef97
+run_link: null
+source: file:///home/emanuel/Documents/ciclo2/projeto-final/mlruns/0/d786825c360c4e70a0802af9928eef97/artifacts/XGBClassifier
+status: READY
+status_message: null
+storage_location: file:///home/emanuel/Documents/ciclo2/projeto-final/mlruns/0/d786825c360c4e70a0802af9928eef97/artifacts/XGBClassifier
+user_id: null
+version: 1

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/emanuel/Documents/ciclo2/projeto-final/mlruns/0/062ca097d14548c2b2332bb5d3d6ea0f/artifacts
+end_time: 1717702354095
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 062ca097d14548c2b2332bb5d3d6ea0f
+run_name: MLPClassifier
+run_uuid: 062ca097d14548c2b2332bb5d3d6ea0f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717702336910
+status: 3
+tags: []
+user_id: emanuel

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/emanuel/Documents/ciclo2/projeto-final/mlruns/481448801901127376/6e5174c3e9b34926b943de31e353ee99/artifacts
+end_time: 1717722180409
+entry_point_name: ''
+experiment_id: '481448801901127376'
+lifecycle_stage: active
+run_id: 6e5174c3e9b34926b943de31e353ee99
+run_name: LinearSVC
+run_uuid: 6e5174c3e9b34926b943de31e353ee99
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717722176965
+status: 3
+tags: []
+user_id: emanuel

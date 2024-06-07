@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1717712936638
+current_stage: None
+description: null
+last_updated_timestamp: 1717712936638
+name: RandomForestClassifier
+run_id: 124db1f2a6774a8eb45764cc8a37ca00
+run_link: null
+source: file:///home/emanuel/Documents/ciclo2/projeto-final/mlruns/481448801901127376/124db1f2a6774a8eb45764cc8a37ca00/artifacts/RandomForestClassifier
+status: READY
+status_message: null
+storage_location: file:///home/emanuel/Documents/ciclo2/projeto-final/mlruns/481448801901127376/124db1f2a6774a8eb45764cc8a37ca00/artifacts/RandomForestClassifier
+user_id: null
+version: 3

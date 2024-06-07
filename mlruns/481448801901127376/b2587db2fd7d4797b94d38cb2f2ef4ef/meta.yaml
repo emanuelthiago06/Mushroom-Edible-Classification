@@ -1,0 +1,15 @@
+artifact_uri: file:///home/emanuel/Documents/ciclo2/projeto-final/mlruns/481448801901127376/b2587db2fd7d4797b94d38cb2f2ef4ef/artifacts
+end_time: 1717712936623
+entry_point_name: ''
+experiment_id: '481448801901127376'
+lifecycle_stage: active
+run_id: b2587db2fd7d4797b94d38cb2f2ef4ef
+run_name: LGBMClassifier
+run_uuid: b2587db2fd7d4797b94d38cb2f2ef4ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717712932349
+status: 3
+tags: []
+user_id: emanuel

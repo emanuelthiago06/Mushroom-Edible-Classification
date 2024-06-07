@@ -1,0 +1,15 @@
+artifact_uri: file:///home/emanuel/Documents/ciclo2/projeto-final/mlruns/481448801901127376/cc37efe516024b409d2b81d7a82af3db/artifacts
+end_time: 1717715888132
+entry_point_name: ''
+experiment_id: '481448801901127376'
+lifecycle_stage: active
+run_id: cc37efe516024b409d2b81d7a82af3db
+run_name: BaggingClassifier
+run_uuid: cc37efe516024b409d2b81d7a82af3db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717715875792
+status: 3
+tags: []
+user_id: emanuel

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/emanuel/Documents/ciclo2/projeto-final/mlruns/0/8c70ec80d600451eb05d186fb2ac76b7/artifacts
+end_time: 1717705623256
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8c70ec80d600451eb05d186fb2ac76b7
+run_name: XGBClassifier
+run_uuid: 8c70ec80d600451eb05d186fb2ac76b7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717705618235
+status: 3
+tags: []
+user_id: emanuel

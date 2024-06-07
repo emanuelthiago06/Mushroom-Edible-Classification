@@ -1,0 +1,15 @@
+artifact_uri: file:///home/emanuel/Documents/ciclo2/projeto-final/mlruns/0/83cc44c93ea04599bbf86b78e3231033/artifacts
+end_time: 1717705572973
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 83cc44c93ea04599bbf86b78e3231033
+run_name: RandomForestClassifier
+run_uuid: 83cc44c93ea04599bbf86b78e3231033
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717705542735
+status: 3
+tags: []
+user_id: emanuel

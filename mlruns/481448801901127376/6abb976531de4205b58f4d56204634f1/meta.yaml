@@ -1,0 +1,15 @@
+artifact_uri: file:///home/emanuel/Documents/ciclo2/projeto-final/mlruns/481448801901127376/6abb976531de4205b58f4d56204634f1/artifacts
+end_time: 1717712849135
+entry_point_name: ''
+experiment_id: '481448801901127376'
+lifecycle_stage: active
+run_id: 6abb976531de4205b58f4d56204634f1
+run_name: LogisticRegression
+run_uuid: 6abb976531de4205b58f4d56204634f1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717712845977
+status: 3
+tags: []
+user_id: emanuel

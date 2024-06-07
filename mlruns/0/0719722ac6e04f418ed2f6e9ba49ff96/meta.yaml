@@ -1,0 +1,15 @@
+artifact_uri: file:///home/emanuel/Documents/ciclo2/projeto-final/mlruns/0/0719722ac6e04f418ed2f6e9ba49ff96/artifacts
+end_time: 1717701992341
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0719722ac6e04f418ed2f6e9ba49ff96
+run_name: GradientBoostingClassifier
+run_uuid: 0719722ac6e04f418ed2f6e9ba49ff96
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717701960938
+status: 3
+tags: []
+user_id: emanuel
